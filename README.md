@@ -11,4 +11,4 @@ PM2.5 forecasting over India (140×124 grid), 10-hr input → 16-hr forecast
 - Score: 0.8877
 
 ## Kaggle Notebook
-[[Link to best notebook](https://www.kaggle.com/code/dhimantbhuva/notebook6f173cf22f)]
+[[Link to final notebook](https://www.kaggle.com/code/dhimantbhuva/notebook6f173cf22f)]
